@@ -44,5 +44,14 @@ Archived high school robotics project using Java and the FTC SDK.
 - Programmed motors, servos, and control logic for competition tasks
 - Kept as evidence of early robotics and engineering experience
 
+### RimWorld Mod – Simple Trauma Savant
+C# mod published on Steam Workshop.
+
+- Implemented custom gameplay mechanic using RimWorld modding API  
+- Integrated with the game’s health system (hediffs)  
+- Designed and tested feature behavior in-game  
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3158929726
+
 ## Contact
 robert820404@gmail.com
