@@ -29,7 +29,7 @@ Full-stack Progressive Web App built with Laravel, JavaScript, MySQL, and Docker
 - Added food database search and drag-and-drop meal organization
 - Designed database structure and integrated external APIs
 
-Planned as a deployable product,
+Planned for public release as a deployable product.
 
 ### University Projects (SDU)
 - Worked on multiple team-based software projects across backend, frontend, and databases
@@ -51,7 +51,7 @@ C# mod published on Steam Workshop.
 - Integrated with the game’s health system (hediffs)  
 - Designed and tested feature behavior in-game  
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=3158929726
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3158929726)
 
 ## Contact
 robert820404@gmail.com
