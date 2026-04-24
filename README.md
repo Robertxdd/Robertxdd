@@ -37,10 +37,12 @@ Planned as a deployable product,
 - Contributed to implementation, debugging, testing, and documentation
 
 ### FIRST Tech Challenge Robotics
+Archived high school robotics project using Java and the FTC SDK.
+
 - **3rd Place Innovation Award (Romania)**
-- Developed tele-operated control systems and autonomous robot behavior
-- Programmed robot functionality using Java, sensors, and motors
-- Worked on control logic, system integration, and technical documentation
+- Worked mainly on tele-operated control and autonomous robot behavior
+- Programmed motors, servos, and control logic for competition tasks
+- Kept as evidence of early robotics and engineering experience
 
 ## Contact
 robert820404@gmail.com
