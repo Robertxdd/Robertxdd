@@ -29,7 +29,6 @@ Full-stack Progressive Web App built with Laravel, JavaScript, MySQL, and Docker
 - Added food database search and drag-and-drop meal organization
 - Designed database structure and integrated external APIs
 
-Planned for public release as a deployable product.
 
 ### University Projects (SDU)
 - Worked on multiple team-based software projects across backend, frontend, and databases
